@@ -1,3 +1,7 @@
-# Project-No2
-Project 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vS-A0KE-wC7uY0NYQLtjtTsEAoK02iKl33MP-C5nF18xwO0dEx_1g1yLCCmuUoVRZ-UofwLR3lPwPro/pubhtml
+# Payments/Monetization Analyst
+
+https://docs.google.com/spreadsheets/d/1KkZbcwfeqeztmYsiHYeQcwwguHsoUHN4Gl1qLOsqY0Y/edit?usp=sharing
+https://public.tableau.com/app/profile/g.kasparaviciene/viz/AnalyzingBusinessProblemsParetochart/Dashboard1
+https://docs.google.com/presentation/d/1Ka73XUOu0T0G8Q-E3gFKtWLrNESdSz0JT8osLoGnFKA/edit?usp=sharing
+
+Provided analysis using Tableau
